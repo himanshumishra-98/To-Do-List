@@ -5,6 +5,13 @@ body {
     padding: 1rem;
 }
 
+h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border-radius: 0.75rem;
+}
+
 #input-bar {
     width: 80%;
     border-radius: 0.5rem;
@@ -12,13 +19,13 @@ body {
     padding: 1rem;
 }
 
-.btn-primary {
+.btn-success {
     height: 9.5vh;
     width: 15%;
     font-size: 25px;
 }
 
-#nav {
+#bar {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -34,12 +41,9 @@ body {
 }
 
 .task-list {
-
     font-size: 25px;
-    display: flex;
-    justify-content: space-between;
 }
 
-.task-list li {
-    display: block;
+.btn-danger {
+    margin-left: 100px;
 }
