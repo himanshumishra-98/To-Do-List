@@ -47,3 +47,17 @@ h1 {
 .btn-danger {
     margin-left: 100px;
 }
+
+
+@media (min-width:400px) {
+    body{margin: 0;}
+    .input-txt {width: 60%;}
+    .btn-success {
+        height: 9.5vh;
+        width: 20%;
+    }
+    .main{
+        padding: 1rem;
+    }
+
+}
