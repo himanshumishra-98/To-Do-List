@@ -49,7 +49,7 @@ h1 {
 }
 
 
-@media (min-width:400px) {
+@media (max-width:400px) {
     body{margin: 0;}
     .input-txt {width: 60%;}
     .btn-success {
