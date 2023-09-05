@@ -49,12 +49,13 @@ h1 {
 }
 
 
-@media (max-width:400px) {
+@media (max-width:450px) {
     body{margin: 0;}
     .input-txt {width: 60%;}
     .btn-success {
         height: 9.5vh;
         width: 20%;
+        font-size: 20px;
     }
     .main{
         padding: 1rem;
