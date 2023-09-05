@@ -1,2 +1,2 @@
-# to-do-list
-Webapp to add/remove daily task
+# To-Do-List
+Webapp to add/remove the daily tasks
